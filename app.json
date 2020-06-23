@@ -2,7 +2,6 @@
   "expo": {
     "name": "food",
     "slug": "food",
-    "sdkVersion": "20.0.0",
     "platforms": [
       "ios",
       "android",
